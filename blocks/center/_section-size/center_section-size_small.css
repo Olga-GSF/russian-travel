@@ -1,21 +1,23 @@
 .center_section-size_small {
   margin: 92px 0 92px 148px;
+  box-sizing: content-box;
 }
 
 @media screen and (max-width: 1279px) {
-  .intro {
+  .center_section-size_small {
   margin: 92px 0 92px 48px;
   }
 }
 
 @media screen and (max-width: 1023px) {
-  .intro {
-  margin: 88px 0 88px 24px;
+  .center_section-size_small {
+  margin: 88px 0;
+  padding: 0 24px;
   }
 }
 
 @media screen and (max-width: 767px) {
-  .intro {
+  .center_section-size_small {
   margin: 64px 0;
   padding: 0 16px;
   }

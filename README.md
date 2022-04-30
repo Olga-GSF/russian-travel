@@ -15,6 +15,8 @@
 
 ## Ссылка на GitHub
 
+https://github.com/Olga-GSF/russian-travel
+
 ## Контакты
 
 Olga-GSF - Olga-GSF@example.com
