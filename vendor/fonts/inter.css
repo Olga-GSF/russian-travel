@@ -4,12 +4,6 @@
   font-weight: 400;
   font-display: swap;
   src: url("./Inter-Regular.woff2") format("woff2"), url("./Inter-Regular.woff") format("woff");
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  -webkit-text-size-adjust: 100%;
-  -ms-text-size-adjust: 100%;
-  -moz-text-size-adjust: 100%;
-  text-rendering: optimizeLegibility;
 }
 
 @font-face {
@@ -18,12 +12,6 @@
   font-weight: 700;
   font-display: swap;
   src: url("./Inter-Bold.woff2") format("woff2"), url("./Inter-Bold.woff") format("woff");
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  -webkit-text-size-adjust: 100%;
-  -ms-text-size-adjust: 100%;
-  -moz-text-size-adjust: 100%;
-  text-rendering: optimizeLegibility;
 }
 
 @font-face {
@@ -32,10 +20,4 @@
   font-weight: 900;
   font-display: swap;
   src: url("./Inter-Black.woff2") format("woff2"), url("./Inter-Black.woff") format("woff");
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  -webkit-text-size-adjust: 100%;
-  -ms-text-size-adjust: 100%;
-  -moz-text-size-adjust: 100%;
-  text-rendering: optimizeLegibility;
 }

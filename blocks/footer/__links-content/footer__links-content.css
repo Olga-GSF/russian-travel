@@ -1,5 +1,4 @@
-.footer__links {
-  list-style: none;
+.footer__links-content {
   display: flex;
   flex-direction: row;
   justify-content: center;
@@ -9,19 +8,19 @@
 }
 
 @media screen and (max-width: 1279px) {
-  .footer__links {
+  .footer__links-content {
   max-width: 928px;
   }
 }
 
 @media screen and (max-width: 1023px) {
-  .footer__links {
+  .footer__links-content {
   max-width: 720px;
   }
 }
 
 @media screen and (max-width: 767px) {
-  .footer__links {
+  .footer__links-content {
   max-width: 186px;
   min-height: 310px;
   flex-direction: column;

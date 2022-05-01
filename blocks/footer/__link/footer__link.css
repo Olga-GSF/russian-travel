@@ -1,6 +1,4 @@
 .footer__link {
-  font-family: 'Inter', 'Arial', sans-serif;
-  font-style: normal;
   font-weight: 400;
   font-size: 16px;
   line-height: 1.1;
@@ -14,7 +12,7 @@
   opacity: 0.5;
 }
 
-.footer__link:last-child {
+.footer__link:nth-child(5n) {
   margin-right: 0;
 }
 
@@ -24,7 +22,7 @@
     line-height: 1.1;
     margin-bottom: 32px;
   }
-  .footer__link:last-child {
+  .footer__link:nth-child(5n) {
     margin-bottom: 0;
   }
 }
